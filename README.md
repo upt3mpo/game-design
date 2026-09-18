@@ -1,16 +1,9 @@
 # **Dan Manez**
-
 ![Game Design](https://img.shields.io/badge/Game%20Design-Systems%20%7C%20Encounters%20%7C%20Player%20Experience-blue)
 
 **Game Design | Encounter & Systems Design | Player-Focused Mechanics**
 📍 Los Angeles, CA
-🔗 [linkedin.com/in/danmanez](https://linkedin.com/in/danmanez) | [github.com/upt3mpo](https://github.com/upt3mpo)
-
----
-
-## **Live Site**
-
-<https://upt3mpo.github.io/resume-game-design/>
+🔗 [linkedin.com/in/danmanez](https://linkedin.com/in/danmanez) | [github.com/upt3mpo](https://github.com/upt3mpo) | [upt3mpo.github.io/game-design](https://upt3mpo.github.io/game-design/)
 
 ---
 
@@ -23,10 +16,10 @@ Design-rooted professional who began in UX design before moving into quality eng
 ## **Independent Design Work**
 
 **Priest Class Redesign** — A full systems redesign of Shadow and Discipline Priest, working through damage rotation, resource systems, and cooldown structure as a systems owner would, including a UI requirements argument for designing default interface alongside class mechanics rather than after.
-🔗 [Live site](https://upt3mpo.github.io/wow-class-rework/) | [Repo](https://github.com/upt3mpo/wow-class-rework)
+[upt3mpo.github.io/wow-class-rework](https://upt3mpo.github.io/wow-class-rework/) · [github.com/upt3mpo/wow-class-rework](https://github.com/upt3mpo/wow-class-rework)
 
 **Hogger Reimagined** — An encounter design pitch reimagining a classic starter-zone creature as a fully realized instanced boss fight, with a narrative quest hook feeding directly into a phased mechanic breakdown built around environmental interaction and explicit pacing intent.
-🔗 [Live site](https://upt3mpo.github.io/hogger-reimagined/) | [Repo](https://github.com/upt3mpo/hogger-reimagined)
+[upt3mpo.github.io/hogger-reimagined](https://upt3mpo.github.io/hogger-reimagined/) · [github.com/upt3mpo/hogger-reimagined](https://github.com/upt3mpo/hogger-reimagined)
 
 ---
 
@@ -53,10 +46,10 @@ Design-rooted professional who began in UX design before moving into quality eng
 ## **Additional Creative Work**
 
 **Shadowbound: Aura of Attrition** — A dark fantasy character concept combining narrative writing with RPG systems design, including full ability, trait, and itemization breakdowns tied directly to story beats.
-🔗 [Live site](https://upt3mpo.github.io/shadowbound/) | [Repo](https://github.com/upt3mpo/shadowbound)
+[upt3mpo.github.io/shadowbound](https://upt3mpo.github.io/shadowbound/) · [github.com/upt3mpo/shadowbound](https://github.com/upt3mpo/shadowbound)
 
 **The Fall of Windmere** — An ongoing fiction series, building narrative structure and pacing instincts that carry into encounter and character design.
-🔗 [Read on Substack](https://upt3mpo.substack.com/p/the-fall-of-windmere-chapter-1-the)
+[upt3mpo.substack.com](https://upt3mpo.substack.com/p/the-fall-of-windmere-chapter-1-the)
 
 ---
 
